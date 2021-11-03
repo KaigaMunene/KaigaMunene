@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaigaMunene
-- 👀 I’m interested in ...python, html and css
+- 👀 I’m interested in ...python, html, javascript and css
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... kaigamunene@gmail.com
 
 <!---
